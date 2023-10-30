@@ -72,7 +72,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Android Resolved Dependencies 
-[Aa]ssets/Plugins/Android/
+[Aa]ssets/Plugins/Android*
 ProjectSettings/AndroidResolverDependencies.xml
 Assets/Plugins/Android/proguard-user.txt
 
@@ -87,3 +87,5 @@ Assets/StreamingAssets/GltfModels.meta
 Assets/StreamingAssets.meta
 Assets/TextMesh Pro*
 Assets/ThirdParty*
+Assets/XR/Temp*
+Assets/Roadmap.Generated*
