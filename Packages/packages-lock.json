@@ -387,14 +387,6 @@
         "com.microsoft.mrtk.graphicstools.unity": "0.5.12"
       }
     },
-    "org.mixedrealitytoolkit.tools": {
-      "version": "file:MixedReality/org.mixedrealitytoolkit.tools-3.0.0.tgz",
-      "depth": 0,
-      "source": "local-tarball",
-      "dependencies": {
-        "org.mixedrealitytoolkit.core": "3.0.0"
-      }
-    },
     "org.mixedrealitytoolkit.uxcomponents": {
       "version": "file:MixedReality/org.mixedrealitytoolkit.uxcomponents-3.1.0.tgz",
       "depth": 0,
@@ -450,7 +442,7 @@
         "com.unity.xr.openxr": "1.7.0",
         "com.unity.nuget.newtonsoft-json": "3.0.1"
       },
-      "hash": "4c81c83ff7026ee83d0a8fada977a45ba14f89bf"
+      "hash": "99162e093c651a3495e55d7c0b5d0938b4ac3613"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
