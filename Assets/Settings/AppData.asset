@@ -22,23 +22,23 @@ MonoBehaviour:
   - identifier: AnimSel
     prefab: {fileID: 3683523497081195329, guid: 7aafa85d9913e4747ac97231bf74c4b3,
       type: 3}
-  - identifier: Bear
-    prefab: {fileID: 3621777574756437782, guid: 62390df6337094dafb13e7cedb881b08,
-      type: 3}
-  - identifier: Beaver
-    prefab: {fileID: 5642530191082918378, guid: 422e966040e614eddae602c051e05c34,
-      type: 3}
-  - identifier: Coyote
-    prefab: {fileID: 515004258901448515, guid: b7c0e34c82b214a72b33d94f3be0510b, type: 3}
-  - identifier: Deer
-    prefab: {fileID: 1856989746408570075, guid: 8bc672a78bce944378a66f588e5548da,
-      type: 3}
-  - identifier: Moose
-    prefab: {fileID: 2220756249538382298, guid: 652e0559c371a43ff836b92cff59d04d,
-      type: 3}
   - identifier: Owl
     prefab: {fileID: 1640648109976719774, guid: d139419dbb4d74532a7202a0d59bb083,
       type: 3}
+  - identifier: Deer
+    prefab: {fileID: 1856989746408570075, guid: 8bc672a78bce944378a66f588e5548da,
+      type: 3}
+  - identifier: Bear
+    prefab: {fileID: 3621777574756437782, guid: 62390df6337094dafb13e7cedb881b08,
+      type: 3}
+  - identifier: Coyote
+    prefab: {fileID: 515004258901448515, guid: b7c0e34c82b214a72b33d94f3be0510b, type: 3}
+  - identifier: Moose
+    prefab: {fileID: 2220756249538382298, guid: 652e0559c371a43ff836b92cff59d04d,
+      type: 3}
   - identifier: Quail
     prefab: {fileID: 7569916399043489575, guid: f5a7c212fb1b841a88459bdf6088594c,
+      type: 3}
+  - identifier: Beaver
+    prefab: {fileID: 5642530191082918378, guid: 422e966040e614eddae602c051e05c34,
       type: 3}
