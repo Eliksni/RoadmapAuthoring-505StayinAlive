@@ -17,7 +17,7 @@ MonoBehaviour:
   groupID: b1850c1b-d0be-42b2-a04a-0429d0904036
   boundingBoxWithHandlesPrefab: {fileID: 5671351296789090341, guid: 7b542306e34a62f4c9a822fcb19b7d99,
     type: 3}
-  stateChanged: 1
+  stateChanged: 0
   placables:
   - identifier: AnimSel
     prefab: {fileID: 3683523497081195329, guid: 7aafa85d9913e4747ac97231bf74c4b3,
